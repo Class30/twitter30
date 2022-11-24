@@ -1,0 +1,86 @@
+Total sales is $ 20000
+Cost of Sales is $ 5000
+Grossmargin is $ 15000
+Total expenses is $ 15000
+EBIT is $ 0
+End of current cycle
+
+
+Total sales is $ 50000
+Cost of Sales is $ 10000
+Grossmargin is $ 40000
+Total expenses is $ 5000
+EBIT is $ 35000
+End of current cycle
+
+
+Total sales is $ 5
+
+
+Cost of Sales is $ 2
+Grossmargin is $ 3
+Total expenses is $ 1
+EBIT is $ 2
+End of current cycle
+
+
+Total sales is $ 5
+
+
+Cost of Sales is $ 2
+Grossmargin is $ 3
+Total expenses is $ 10
+EBIT is $ -7
+End of current cycle
+
+
+Total sales is $ 10
+
+
+Cost of Sales is $ 
+Grossmargin is $ 
+Total expenses is $ clear
+EBIT is $ 0
+End of current cycle
+
+
+Total sales is $ 25
+
+
+Cost of Sales is $ 
+Grossmargin is $ 
+Total expenses is $ 25
+EBIT is $ -25
+End of current cycle
+
+
+Total sales is $ 10
+
+
+Cost of Sales is $ 
+Grossmargin is $ 
+Total expenses is $ 50
+EBIT is $ -50
+End of current cycle
+
+
+Total sales is $ 58
+
+
+Cost of Sales is $ 65
+Grossmargin is $ -7
+Total expenses is $ 65
+EBIT is $ -72
+End of current cycle
+
+
+Total sales is $ 15
+
+
+Cost of Sales is $ 05
+Grossmargin is $ 10
+Total expenses is $ 25
+EBIT is $ -15
+End of current cycle
+
+
